@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish Karanam  </h1>
 <h3 align="center">
-A Software Engineer with a strong foundation in Java and familiar with Spring, Spring Boot,Microservices, Hibernate, JDBC, MySQL,REST APIs & Angular.  
-A passionate Software Developer and  Ethical Hacking enthusiast focusing on malware analysis, networking, and cybersecurity awareness from India.
+Software Developer with hands-on experience in Java, Spring Boot, Microservices, Hibernate, MySQL, REST APIs, and Angular. Skilled in developing full-stack web applications, designing scalable backend services, and building secure, user-friendly solutions. Passionate about software development, problem-solving, and continuously learning modern technologies in cybersecurity and cloud computing.
 </h3>
 
 ---
