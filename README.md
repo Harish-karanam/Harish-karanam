@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harish Karanam  </h1>
 <h3 align="center">
-A Software Engineer with a strong foundation in Java and familiar with Spring, Spring Boot,Microservices, Hibernate, JDBC, MySQL & REST APIs.  
-A passionate Ethical Hacking enthusiast focusing on malware analysis, networking, and cybersecurity awareness from India.
+A Software Engineer with a strong foundation in Java and familiar with Spring, Spring Boot,Microservices, Hibernate, JDBC, MySQL,REST APIs & Angular.  
+A passionate Software Developer and  Ethical Hacking enthusiast focusing on malware analysis, networking, and cybersecurity awareness from India.
 </h3>
 
 ---
 
 ### 🌱 Currently Exploring
+- Building secure Corporate style leave management system using java, Spring Boot, Jwt, Angular
 - Building secure backend systems using Java, Spring Boot & Microservices 
 - **Malware attacks**, threat behavior & cybersecurity fundamentals  
 - Sharing **ethical hacking awareness** on social media  
