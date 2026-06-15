@@ -82,8 +82,10 @@ HTML/CSS/JS platform for skill development seekers.
 </a>
 
 <!-- Angular -->
-<a href="https://angular.dev/" target="_blank" rel="noreferrer">
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=Zz0w6tsX&id=6B026E0ECFF2554F42614613CCA9A44ABBDF633F&thid=OIP.Zz0w6tsXpIKPxX0_nwXAaAHaHa&mediaurl=https%3a%2f%2fwww.htmlelements.com%2fdemos%2fimages%2fangular_gradient.png&exph=1920&expw=1920&q=angular&FORM=IRPRST&ck=5E6A006495E7C6CAFD49882AE6CBBAE4&selectedIndex=6&itb=1" width="40" height="40"/>
+<a href="https://angular.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+       width="40"
+       height="40"/>
 </a>
 
 <!-- C Language -->
