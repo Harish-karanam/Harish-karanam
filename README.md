@@ -15,23 +15,6 @@ A passionate Software Developer and  Ethical Hacking enthusiast focusing on malw
 
 ---
 
-### 📫 How to reach me  
-**karanamharish18@gmail.com**, **karanamharish2003@gmail.com**, **@akhimudiraj18**
-
----
-
-## 🔗 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/harish-karanam-912362386/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanam harish" height="30" width="40" />
-</a>
-<a href="https://instagram.com/akhimudiraj18" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@akhimudiraj18" height="30" width="40" />
-</a>
-</p>
-
----
-
 # 🛡️ Ethical Hacking & Cybersecurity
 - Basic Ethical Hacker with strong interest in **malware detection**, **network scanning** 
 - Experienced with **Linux**, **Kali basics**, **password attack simulations**, and **web vulnerability concepts**  
@@ -123,6 +106,22 @@ HTML/CSS/JS platform for skill development seekers.
 
 </p>
 
+
+---
+### 📫 How to reach me  
+**karanamharish18@gmail.com**, **karanamharish2003@gmail.com**, **@akhimudiraj18**
+
+---
+
+## 🔗 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/harish-karanam-912362386/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanam harish" height="30" width="40" />
+</a>
+<a href="https://instagram.com/akhimudiraj18" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@akhimudiraj18" height="30" width="40" />
+</a>
+</p>
 
 ---
 
