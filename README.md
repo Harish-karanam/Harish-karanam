@@ -26,7 +26,7 @@ Software Developer with hands-on experience in Java, Spring Boot, Microservices,
 
 # 💼 Internship Experience
 - **Invenio Business Solutions** - Assocaiate Consultant Java (Present)
-- **Virtusa** – Java Full stack Trainee (4 Months)
+- **Virtusa** – Java Full stack Trainee (3 Months)
 - **TestYantra** – Core Java Trainer (3 Months)
 - **JSpiders** – Java Full Stack Development (6 Months)  
   
