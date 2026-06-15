@@ -52,6 +52,9 @@ A passionate Software Developer and  Ethical Hacking enthusiast focusing on malw
 
 # 🚀 Projects (Technical + Cybersecurity)
 
+### 🏦 **Leave Management System (Spring Boot, Angular) **
+Corporate Style lms using Spring boot, jwt, outh, Angular
+
 ### 🏦 **Banking System Simulator (Spring Boot Microservices)**
 Distributed system with Eureka, Feign, API Gateway & Docker.
 
