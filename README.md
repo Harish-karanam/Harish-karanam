@@ -45,7 +45,8 @@ A passionate Software Developer and  Ethical Hacking enthusiast focusing on malw
 # 💼 Internship Experience
 - **JSpiders** – Java Full Stack Development (6 Months)  
 - **TestYantra** – Core Java Trainer (3 Months)
-- **VIrtusa** – Java Full stack Trainee 
+- **VIrtusa** – Java Full stack Trainee (4 Months)
+- Invenio Business Solutions - Assocaiate Consultant Java (Present)
   
 
 ---
